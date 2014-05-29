@@ -1,0 +1,6 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  This plugin makes sure that only a job is working on the same workspace in case the workspace is shared.
+</div>
